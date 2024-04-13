@@ -3,7 +3,7 @@
 
 ## Overview
 
-Welcome to the Data Analyst Projects Repository! This repository contains a collection of projects completed as part of a data science course. Each project showcases various skills and techniques learned throughout the course, covering topics such as data preprocessing, exploratory data analysis, statistical analysis, business analytics, automation, and more.
+Welcome to the Data Analyst Projects Repository! This repository contains a collection of example projects entirely coded by me, they showcases various skills and techniques and cover topics such as data preprocessing, exploratory data analysis, statistical analysis, business analytics, automation, and more.
 
 
 ###  Basic Python
