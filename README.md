@@ -4,10 +4,8 @@
 ## Overview
 
 Welcome to the Data Analyst Projects Repository! This repository contains a collection of example projects entirely coded by me, they showcases various skills and techniques and cover topics such as data preprocessing, exploratory data analysis, statistical analysis, business analytics, automation, and more.
+All projects within this repository are implemented using the Python programming language. Each project includes comprehensive code segments accompanied by corresponding descriptions elucidating their functionality. Additionally, conclusive remarks are provided at various stages throughout the projects.
 
-
-###  Basic Python
-- **Description:** Introduction to Python programming language, covering basic concepts and syntax.
 
 ###  Data Preprocessing
 - **Description:** Techniques for cleaning, transforming, and preparing raw data for analysis.
