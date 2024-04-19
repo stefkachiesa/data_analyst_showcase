@@ -16,9 +16,6 @@ All projects within this repository are implemented using the Python programming
 ###  Statistical Data Analysis
 - **Description:** Applying statistical methods to analyze and interpret data, making inferences and drawing conclusions.
 
-###  Integrated Project 1
-- **Description:** First integrated project combining multiple data science skills to solve a real-world problem.
-
 ###  Data Collection and Storage (SQL)
 - **Description:** Learning SQL for data collection, querying, and database management.
 
@@ -31,17 +28,12 @@ All projects within this repository are implemented using the Python programming
 ###  How to Tell a Story Using Data
 - **Description:** Communicating insights and findings effectively through data visualization and storytelling.
 
-###  Integrated Project 2
-- **Description:** Second integrated project incorporating advanced data science concepts and techniques.
-
 ###  Automation
 - **Description:** Implementing automation techniques to streamline repetitive tasks and workflows.
 
 ###  Forecasts and Predictions
 - **Description:** Building predictive models to forecast future trends and outcomes based on historical data.
 
-###  Final Project
-- **Description:** Culminating project demonstrating mastery of data science skills through a comprehensive analysis or application.
 
 ## Usage
 
