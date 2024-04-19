@@ -45,7 +45,7 @@ All projects within this repository are implemented using the Python programming
 
 ## Usage
 
-Feel free to explore each project folder to access code, documentation, and any additional resources related to the project. Each project directory contains detailed README files with instructions on how to run the code, replicate the analysis, and contribute to the project.
+Feel free to explore each project folder to access code, documentation, and any additional resources related to the project.
 
 ## Contributors
 
